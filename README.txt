@@ -1,3 +1,3 @@
-## En este repositorio subo varios challenge que fui haciendo para entender mejor a los datos.
+# EDA 
 
-* Hice un análisis exploratorio de datos con el fin de entender la geometría de las relaciones.
+Este repositorio es de un análisis exploratorio de datos para el challenge de Microstrategy, con el fin de entender la geometría de las relaciones.
