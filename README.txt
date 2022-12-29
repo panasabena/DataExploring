@@ -1,4 +1,4 @@
- EDA
+## EDA
 
 En la carpeta csvs estan en un archivo ZIP, los datasets que fueron usados.
 En la carpeta de "cardio" se encuentra un breve ipnb a modo de resumen de la distribución de los datos.
